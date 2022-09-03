@@ -4,6 +4,8 @@
 
 一个基于chkdsk和sfc的电脑修复软件
 
+注意！未做跨平台，仅可在Windows下使用
+
 使用用C++和VisualBasic开发
 
 由DijkstraPhoenix原创
@@ -17,6 +19,8 @@
 ### EN
 
 A computer repair software based on chkdsk and sfc
+
+Attention! Not made cross-platform, only available for Windows
 
 Development with C++ and VisualBasic
 
